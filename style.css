@@ -1,0 +1,20 @@
+body {
+	background-color: #f3f3f3;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	color: #2b2b2b;
+}
+
+#oracao {
+	font-size: 24px;
+	font-style: italic;
+	margin: 50px auto;
+	padding: 20px;
+	background-color: #ffffff;
+	box-shadow: 0px 0px 10px #cccccc;
+	max-width: 80%;
+	text-align: center;
+}
